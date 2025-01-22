@@ -6,7 +6,7 @@ public class casting1 {
     public static void main(String[] args) {
 
         /**
-         * 작은 범위의 타입에서 큰 범위 타입에 숫자를 너흔 건 된다.
+         * 작은 범위의 타입에서 큰 범위 타입에 숫자를 넣는 건 된다.
          **/
         int intValue = 20;
         long lonValue ;
