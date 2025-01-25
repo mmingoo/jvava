@@ -29,6 +29,5 @@ public class Array1 {
         System.out.println("학생5 점수: " + student5);
 
 
-
     }
 }
